@@ -61,8 +61,8 @@ body{
 }
 .envelope{
     position: absolute; 
-    top: 410px; 
-    left: 280px; 
+    top: 395px; 
+    left: 260px; 
 }
 .envelope:hover,
 .svg__smiley:hover {
